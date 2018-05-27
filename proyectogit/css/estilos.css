@@ -1,0 +1,128 @@
+
+body{
+ background:rgb(246 246 246);
+ font-size: 14px;
+}   
+
+
+#contenedor
+{
+
+margin: auto;
+width: 960px;
+margin-top: 20px;
+border-radius: 10px;
+overflow: hidden;
+margin-bottom: 15px;
+}
+#contenedor img
+{float: left;
+	}
+header
+{background: rgb(246 246 246);
+float: left;
+height: 100%;
+
+}
+
+nav
+{
+background: rgb(0 88 131);
+height: 60px;
+}
+nav li
+{
+		list-style: none;
+		display: inline-block;
+		padding: 20PX 0PX;
+	}
+	
+
+	
+	nav a
+	{
+	color: #FFFFFF;
+	font-size: 18PX;
+	font-weight: bold;
+	font-family: ARIAL;
+	text-decoration: none;
+	padding: 20PX;
+	}
+	 
+nav a:hover
+{
+	background: rgb(240 180 41);
+	color: #000000
+}
+
+#CONTENIDO {
+	float: left;
+	width: 700PX;
+	background: rgb(179 179 179);	
+    margin-right: 10PX;
+    margin-top: 20px;
+    border-radius: 10px;
+    overflow: hidden;
+    margin-bottom: 15px;
+
+}	
+    
+.articulos
+{
+
+}
+
+
+
+h1 
+{
+text-align:center;
+}
+h2
+{
+text-align: center;	
+}
+
+h3
+{
+margin-left: 50px;
+margin-right: 50px;
+margin-top: 15px;
+marker-end: 10px;	
+}
+
+ 
+
+
+
+
+
+nav
+{
+background: rgb(0 88 131);
+height: 60px;
+
+	}
+	nav li
+	{
+		list-style: none;
+		display: inline-block;
+		padding: 20PX 0PX;
+
+	}
+nav a:hover
+	{
+	background:rgb(240 180 41);
+	color: #000000;
+
+	}
+
+	
+	nav a
+	{
+	color: #FFFFFF;
+	font-size: 18PX;
+	font-weight: bold;
+	font-family: ARIAL;
+	text-decoration: none;
+	padding: 20PX; 
